@@ -1,14 +1,12 @@
+Este site é uma adaptação de um template gratuito.
 
-TITLE: 
+CREDITS:
+
 Roxy - Bootstrap 4 template built by GetTemplates.co
 
-AUTHOR:
 DESIGNED & DEVELOPED by GetTemplates.co and FreeHTML5.co
 
 Websites: https://gettemplates.co https://freehtml5.co/
-
-
-CREDITS:
 
 Bootstrap
 http://getbootstrap.com/
